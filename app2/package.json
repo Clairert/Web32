@@ -22,7 +22,7 @@
     "webpack-cli": "^3.3.10"
   },
   "devDependencies": {
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "nodemon": "^2.0.0"
   },
   "main": "app.js",
